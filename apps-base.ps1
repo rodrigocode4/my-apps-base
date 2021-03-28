@@ -8,6 +8,7 @@ $myApps = @(
 'Docker.DockerDesktop',
 'TablePlus.TablePlus',
 'Git.Git',
+'Yarn.Yarn',
 
 
 #System Management
